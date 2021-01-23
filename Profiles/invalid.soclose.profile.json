@@ -1,0 +1,7 @@
+{
+    "id": 123,    
+    "maxSearchDepth": 1,
+    "validations": [
+        { "pattern": "debug=\"true\"", "shouldMatch": false, "severity": 3, "message": "Debugging is enabled", "id": "80a60344-f595-4043-8a18-8498bc26c479" }
+    ]
+}
